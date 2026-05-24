@@ -1,9 +1,8 @@
 # Besukes:
-Software Engineer @ UMINHO .<br>Currently focusing on learning new languages.<br>Building a chess game in C.
+Software Engineer @ UMINHO .
+<br>Currently focusing on learning new languages and improving my knowledge.
+<br>besukesfn@gmail.com.
 
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/albertosilv.a)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/albertosilv.a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:besukesfn@gmail.com) 
 <br>
 <br>
 # 💻 Coding Languages:
