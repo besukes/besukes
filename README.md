@@ -16,7 +16,7 @@ Software Engineer @ UMINHO .<br>Currently focusing on learning new languages.<br
   [**Simple solitaire game in assembly**]<br>
 <br>
 <br>
-### ✅ Finished Projects
+# ✅ Finished Projects:
 [**Solitaire Game Engine**](https://github.com/besukes/LI2GameEngine)<br>
   Project that creates a game based on a series of commands stored in a file.<br>
   This project was made in spite of LI2 class.<br>
