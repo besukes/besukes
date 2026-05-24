@@ -15,13 +15,13 @@ Software Engineer @ UMINHO .<br>Currently focusing on learning new languages.<br
 
 
 ### 🔝 Finished Projects
-![**Fase3 Basic Game Engine**](https://github.com/besukes/LI2GameEngine)<br>
-Project that creates a game based on a series of commands stored in a file.<br>
-This project was made in spite of LI2 class.<br>
+[**Solitaire Game Engine**](https://github.com/besukes/LI2GameEngine)<br>
+  Project that creates a game based on a series of commands stored in a file.<br>
+  This project was made in spite of LI2 class.<br>
 
-![**Simple Simon Game**](https://github.com/besukes/Simple-Simon-C)
-Simple Simon game made in C using SDL2 with balatro theme.<br>
-This project was also made for LI2 class.
+[**Simple Simon Game**](https://github.com/besukes/Simple-Simon-C)<br>
+  Simple Simon game made in C using SDL2 with balatro theme.<br>
+  This project was also made for LI2 class.
 
 
 
