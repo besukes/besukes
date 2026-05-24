@@ -14,10 +14,14 @@ Software Engineer @ UMINHO .<br>Currently focusing on learning new languages.<br
   #3- Simple solitaire game in assembly<br>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=besukes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Finished Projects
+![**Fase3 Basic Game Engine**](https://github.com/besukes/LI2GameEngine)
+Project that creates a game based on a series of commands stored in a file.<br>
+This project was made in spite of LI2 class.
 
----
-[![](https://komarev.com/ghpvc/?username=besukes&icon=0&color=0)](https://visitcount.itsvg.in)
+![**Simple Simon Game**](https://github.com/besukes/Simple-Simon-C)
+Simple Simon game made in C using SDL2 with balatro theme.<br>
+This project was also made for LI2 class.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
