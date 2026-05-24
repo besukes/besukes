@@ -9,7 +9,9 @@ Software Engineer @ UMINHO .<br>Currently focusing on learning new languages.<br
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 # 🎮 Projects under development:
-  1-- Chess game in C<br>2-- Blackjack game in C<br>Simple solitaire game in assembly
+  1- Chess game in C<br>
+  2- Blackjack game in C<br>
+  3-Simple solitaire game in assembly<br>
 
 
 ### 🔝 Top Contributed Repo
