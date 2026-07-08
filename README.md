@@ -10,6 +10,7 @@ Software Engineer @ UMINHO .
 # 🎮⚙️ Projects under development:
   [**Roguelike Chess game**]<br>
   [**Blackjack game**]<br>
+  [**Transactions Notes Website**]<br>
 <br>
 <br>
 # ✅ Finished Projects:
