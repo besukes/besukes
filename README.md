@@ -23,5 +23,10 @@ Software Engineer @ UMINHO .
   Simple Simon game made in C using SDL2 with balatro theme.<br>
   This project was also made for LI2 class.
 
+[**Bitshark**](https://github.com/besukes/bitshark)<br>
+  Bitshark is a chess engine developed in order to revamp later and use in the game CChess in story mode as the bot you play against. <br>
+  It has many interesting and advanced features that make it a strong but still average chess engine with an estimated rating of 2500 elo. <br>
+  This repository also contains an Makefile and a proper GUI that lets you play against the bot yourself or even see it play itself.
+
 
 
