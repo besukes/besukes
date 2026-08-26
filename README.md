@@ -24,8 +24,8 @@ Software Engineer @ UMINHO .
   This project was also made for LI2 class.
 
 [**Bitshark**](https://github.com/besukes/bitshark)<br>
-  Chess Engine made to later be slighty changed and reused for the game CChess.
-  Contains an Makefile and a proper GUI that lets you play against the bot yourself or even see it play itself.
+  Chess Engine made to later be slighty changed and reused for the game CChess.<br>
+  Contains a proper GUI that lets you play against the bot or even see it play itself.
 
 
 
