@@ -14,6 +14,10 @@ Software Engineer @ UMINHO .
 <br>
 <br>
 # ✅ Finished Projects:
+[**Bitshark**](https://github.com/besukes/bitshark)<br>
+  Chess Engine made to later be slighty changed and reused for the game CChess.<br>
+  Contains a proper GUI that lets you play against the bot or even see it play itself.
+
 [**Solitaire Game Engine**](https://github.com/besukes/LI2GameEngine)<br>
   Project that creates a game based on a series of commands stored in a file.<br>
   This project was made in spite of LI2 class.<br>
@@ -22,9 +26,6 @@ Software Engineer @ UMINHO .
   Simple Simon game made in C using SDL2 with balatro theme.<br>
   This project was also made for LI2 class.
 
-[**Bitshark**](https://github.com/besukes/bitshark)<br>
-  Chess Engine made to later be slighty changed and reused for the game CChess.<br>
-  Contains a proper GUI that lets you play against the bot or even see it play itself.
 
 
 
