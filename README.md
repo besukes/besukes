@@ -11,7 +11,6 @@ Software Engineer @ UMINHO .
   [**Roguelite Chess game**]<br>
   [**Blackjack game**]<br>
   [**Transactions Notes Website**]<br>
-  [**Chess engine**]<br>
 <br>
 <br>
 # ✅ Finished Projects:
