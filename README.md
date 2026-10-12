@@ -1,5 +1,5 @@
 # Besukes:
-Software Engineer @ UMINHO .
+Software Engineer Student @ UMINHO .
 <br>Currently focusing on learning new languages and improving my knowledge.
 <br>besukesfn@gmail.com.
 
