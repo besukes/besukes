@@ -18,8 +18,12 @@ Software Engineer @ UMINHO .
   Chess Engine made to later be slighty changed and reused for the game CChess.<br>
   Contains a proper GUI that lets you play against the bot or even see it play itself.
 
+[**BitLess**](https://github.com/besukes/BitLess)<br>
+  BitLesss is a simple data compressor & de-compressor to reduce files size.
+  
+
 [**Solitaire Game Engine**](https://github.com/besukes/LI2GameEngine)<br>
-  Project that creates a game based on a series of commands stored in a file.<br>
+  Project that creates a playable game based on a series of commands stored in a file.<br>
   This project was made in spite of LI2 class.<br>
 
 [**Simple Simon Game**](https://github.com/besukes/Simple-Simon-C)<br>
@@ -27,8 +31,6 @@ Software Engineer @ UMINHO .
   This project was also made for LI2 class.
   <br>
   
-[**BitLess**](https://github.com/besukes/BitLess)<br>
-  BitLesss is a simple data compressor & de-compressor to reduce files size.
 
 
 
